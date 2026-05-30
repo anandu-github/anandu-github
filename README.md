@@ -1,16 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anandu%20Omanakuttan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20%26%20Cloud%20Engineer%20%7C%20AWS%20Certified%20Solutions%20Architect&descAlignY=62&descSize=16" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Linux+%7C+AWS+%7C+DevOps+Engineer;Managing+200%2B+Production+Servers;AWS+Certified+Solutions+Architect;Building+Reliable+%26+Scalable+Infrastructure)](https://git.io/typing-svg)
+# 👋 Hi, I'm Anandu Omanakuttan
 
-![Profile Views](https://visitcount.itsvg.in/api?id=anandu-github&icon=5&color=6)
+### DevOps & Cloud Engineer | AWS Certified Solutions Architect
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Linux+%7C+AWS+%7C+DevOps+Engineer;Managing+200%2B+Production+Servers;AWS+Certified+Solutions+Architect;Building+Reliable+%26+Scalable+Infrastructure)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anandu--omanakuttan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandu-omanakuttan)
+[![GitHub](https://img.shields.io/badge/GitHub-anandu--github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anandu-github)
+[![Email](https://img.shields.io/badge/Email-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ananduomanakuttan695@gmail.com)
+[![AWS](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/anandu-github)
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```bash
 #!/bin/bash
@@ -37,7 +42,7 @@ currentlyLearning=(
   "GitOps → ArgoCD / Flux"
 )
 
-funFact="I manage 200+ production servers and still find time to automate everything 🤖"
+funFact="I manage 200+ production servers and still automate everything 🤖"
 
 motto() {
   echo "Automate Everything. Monitor Always. Scale Fearlessly."
@@ -96,9 +101,9 @@ echo "Welcome to my GitHub! $(motto)"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandu-github&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandu-github&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandu-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandu-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </div>
 
 ---
@@ -198,21 +203,9 @@ echo "Welcome to my GitHub! $(motto)"
 
 ---
 
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anandu--omanakuttan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandu-omanakuttan)
-[![GitHub](https://img.shields.io/badge/GitHub-anandu--github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anandu-github)
-[![Email](https://img.shields.io/badge/Email-ananduomanakuttan695%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ananduomanakuttan695@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%206238285079-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+916238285079)
-
-</div>
-
----
-
 <div align="center">
   <i>⚡ "Automate Everything. Monitor Always. Scale Fearlessly." ⚡</i>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Open%20to-DevOps%20%7C%20Cloud%20Roles-70a5fd?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Notice%20Period-30%20Days-38bdae?style=flat-square"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
