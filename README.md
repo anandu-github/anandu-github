@@ -4,11 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Linux+%7C+AWS+%7C+DevOps+Engineer;Managing+200%2B+Production+Servers;AWS+Certified+Solutions+Architect;Building+Reliable+%26+Scalable+Infrastructure)](https://git.io/typing-svg)
 
+![Profile Views](https://visitcount.itsvg.in/api?id=anandu-github&icon=5&color=6)
+
 </div>
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ```bash
 #!/bin/bash
@@ -94,12 +96,9 @@ echo "Welcome to my GitHub! $(motto)"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anandu-github">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandu-github&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/anandu-github">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandu-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandu-github&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandu-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
 </div>
 
 ---
@@ -123,7 +122,7 @@ echo "Welcome to my GitHub! $(motto)"
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anandu-github&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anandu-github&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
 </div>
 
 ---
@@ -179,9 +178,9 @@ echo "Welcome to my GitHub! $(motto)"
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| B.E. Mechanical Engineering | Arasu Engineering College | 2022 | — |
+| Degree | Institution | Year |
+|:-------|:------------|:----:|
+| B.E. Mechanical Engineering | Arasu Engineering College | 2022 |
 
 </div>
 
@@ -207,8 +206,6 @@ echo "Welcome to my GitHub! $(motto)"
 [![GitHub](https://img.shields.io/badge/GitHub-anandu--github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anandu-github)
 [![Email](https://img.shields.io/badge/Email-ananduomanakuttan695%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ananduomanakuttan695@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%206238285079-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+916238285079)
-
-![Profile Views](https://komarev.com/ghpvc/?username=anandu-github&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
